@@ -2,7 +2,7 @@
 
 ## Challenge 1: `binaryToDecimal(binaryStr)`
 
-Write a function called `binaryToDecimal` that takes a parameter called `binaryStr.` When the function is called it takes a binary number represented as a string. Then function returns a decimal integer that is equivalent to the binary number.
+Write a function called `binaryToDecimal` that takes a parameter called `binaryStr`. When the function is called it takes a binary number represented as a string. Then function returns a decimal integer that is equivalent to the binary number.
 
 ### example calls
 ```python

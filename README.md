@@ -23,8 +23,7 @@ print(binaryToDecimal("1111"))
 
 ## Challenge 2: `decimalToBinary(integer)`
 
-Write a function called `decimalToBinary` that takes a parameter called `integer`. When the function is called it takes an integer as an arguement and returns a sting of the equivalent binary number. You will have to handle all positive integers and zero.
-
+Write a function called `decimalToBinary` that takes a parameter called `integer`. When the function is called it takes an integer as an arguement and returns a sting of the equivalent binary number. You will have to handle all positive integers and zero. **hint:** zero will have to be handled separately from other numbers.
 ### example calls
 ```python
 print(decimalToBinary(15))

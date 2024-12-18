@@ -1,4 +1,4 @@
-from fallFinalChallenges.avgGrade import avgGrade
+from avgGrade import avgGrade
 
 def test_avgGrade():
     assert avgGrade([51, 57, 53, 95, 60, 87, 90, 62, 87, 95]) == 73.7
